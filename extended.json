@@ -1,0 +1,14 @@
+{
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": "Strasbourg, France",
+        "social": {
+            "twitter_handle": "ADAForHumanity",
+        },
+        "about": {
+            "server": "2 VPS hosted by OVHcloud: 8gb ram, 4 CPUs, 160GB each"
+            }
+        }
+    }
+}
